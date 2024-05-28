@@ -1,3 +1,10 @@
+/*
+filename: index.js
+name: Joshua Da Costa
+id: 301324352
+2024-05-28
+*/
+
 import React from 'react';
 import ReactDOM from 'react-dom/client';
 import './index.css';
